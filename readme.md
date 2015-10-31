@@ -10,4 +10,6 @@ There is also a slow-down feature that can be activated by holding R or L (heavy
 
 Press A on the title screen to see more information.
 
+To play/test the game, run "invasion.gba" with any Gameboy emulator of your choice.
+
 Have fun!
